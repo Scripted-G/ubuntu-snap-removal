@@ -45,14 +45,16 @@ It deletes these directories if they exist:
 If you have Snap applications containing data you want to keep, back that data up
 before running the script.
 
-This project currently targets **Ubuntu 26.04 LTS only**. The script checks the
-detected Ubuntu version and stops if it is run on a different release.
+This project currently targets **Ubuntu 26.04 LTS Classic installations only**.
+Do not use it on Hybrid Classic installations that rely on Snap for essential
+system functionality, such as Ubuntu 26.04 systems installed with TPM-backed
+full-disk encryption.
 
 ---
 
 ## 🧪 Testing
 
-The script has been tested successfully on a fresh Ubuntu 26.04 virtual machine after
+The script has been tested successfully on a fresh Ubuntu 26.04 LTS virtual machine after
 initial system updates.
 
 Test environment:
