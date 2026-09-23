@@ -46,9 +46,8 @@ If you have Snap applications containing data you want to keep, back that data u
 before running the script.
 
 This project currently targets **Ubuntu 26.04 LTS Classic installations only**.
-Do not use it on Hybrid Classic installations that rely on Snap for essential
-system functionality, such as Ubuntu 26.04 systems installed with TPM-backed
-full-disk encryption.
+Do not use it on Ubuntu 26.04 installations using TPM-backed full-disk encryption,
+because those systems rely on Snap-delivered kernel and boot components.
 
 ---
 
