@@ -84,7 +84,7 @@ Additional testing on other Ubuntu 26.04 installations is welcome.
 Clone the repository:
 
 ```bash
-git clone git@github.com:Scripted-G/ubuntu-snap-removal.git
+git clone https://github.com/Scripted-G/ubuntu-snap-removal.git
 cd ubuntu-snap-removal
 ```
 
