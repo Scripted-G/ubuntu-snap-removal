@@ -61,8 +61,7 @@ Test environment:
 | Component | Test Environment |
 |---|---|
 | Guest OS | Ubuntu 26.04 LTS |
-| Hypervisor | QEMU/KVM |
-| Management | libvirt + virt-manager |
+| Hypervisor | VMware Workstation Pro |
 | Test state | Fresh installation with initial updates applied |
 
 A successful run ended with verification similar to:
