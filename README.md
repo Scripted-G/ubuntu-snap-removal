@@ -60,8 +60,9 @@ Test environment:
 
 | Component | Test Environment |
 |---|---|
-| Guest OS | Ubuntu 26.04 LTS |
+| Host OS | Windows 11 Pro |
 | Hypervisor | VMware Workstation Pro |
+| Guest OS | Ubuntu 26.04 LTS |
 | Test state | Fresh installation with initial updates applied |
 
 A successful run ended with verification similar to:
