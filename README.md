@@ -81,6 +81,12 @@ Additional testing on other Ubuntu 26.04 installations is welcome.
 
 ## 🚀 Usage
 
+If `git` is not installed yet (it is not always included in a fresh Ubuntu installation), install it first:
+
+```bash
+sudo apt install git
+```
+
 Clone the repository:
 
 ```bash
